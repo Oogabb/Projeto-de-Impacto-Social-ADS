@@ -60,3 +60,101 @@ Plataforma digital de **rastreabilidade integrada ao Salesforce**, aumentando a 
 - Automação Salesforce: validação de dados, geração de QR e auditoria  
 
 **Fluxo de Dados:**
+
+---
+
+## 👥 Público-Alvo
+- Consumidores finais: buscam produtos sustentáveis  
+- Empresas compradoras: supermercados, indústrias e distribuidores  
+- Produtores rurais: pequenos/médios com boas práticas  
+
+---
+
+## 💡 Proposta de Valor
+- Confiança e informação clara para consumidores  
+- Valorização econômica e reputacional para produtores  
+- Fortalecimento da reputação ESG para empresas  
+
+---
+
+## ♿ Inclusão e Acessibilidade
+- Interface simples, compatível com celulares básicos  
+- Conteúdo em português, inglês e espanhol  
+- Opções de leitura em áudio e texto simplificado  
+- Baixo consumo de dados (PWA + cache local)  
+
+---
+
+## 📊 Impacto Social Esperado
+- Consumidores: mais confiança sobre origem  
+- Produtores: inclusão digital e valorização de práticas sustentáveis  
+- Comunidade: redução de desigualdades, promoção de economia local  
+- Métrica inicial: 20% aumento no engajamento do consumidor no primeiro ano  
+
+---
+
+## 💰 Sustentabilidade
+- Receita baseada em assinaturas B2B  
+- Parcerias com ONGs, certificadoras e instituições de ensino  
+- Escalável para outras cadeias após piloto  
+
+---
+
+## 🏛 Governança e Compliance
+- LGPD: consentimento explícito, dados mínimos, políticas claras  
+- Auditoria: logs, versionamento, aprovação de evidências  
+- Conteúdo apenas verificado  
+
+---
+
+## 📅 Roadmap e Cronograma
+
+| Fase            | Duração        | Entregas                                         |
+|-----------------|----------------|-------------------------------------------------|
+| Descoberta      | Semanas 1–2    | Requisitos, protótipo PWA, mapa de dados       |
+| Build MVP       | Semanas 3–10   | Microsite, QR Code, portal, dashboards        |
+| Piloto          | Semanas 11–14  | 1 SKU de óleo, teste engajamento, feedback     |
+| Avaliação       | Semanas 15–16  | KPIs, ajustes, decisão de escala               |
+| Escala Fase 2   | Mês 5–7        | Novas cadeias, gamificação, integrações        |
+
+---
+
+## ⚠️ Riscos e Mitigações
+
+| Risco                       | Probabilidade | Impacto | Mitigação                         |
+|------------------------------|---------------|---------|----------------------------------|
+| Dados incompletos            | Média         | Alta    | Validação obrigatória             |
+| Resistência de produtores    | Média         | Média   | Treinamento + benefícios claros  |
+| Performance do microsite     | Média         | Média   | PWA + cache + otimização          |
+| LGPD/Privacidade             | Baixa         | Alta    | Privacy by design + revisão jurídica |
+| Adoção interna               | Média         | Média   | Treinamento + RACI definido       |
+
+---
+
+## 📌 Dados Hipotéticos do Piloto
+- Produto: Óleo de soja envasado  
+- SKU piloto: 1000 unidades  
+- Planta: São Paulo – Araraquara  
+- Produtores: 10 cooperativas, 250 famílias  
+- Métricas: CTR QR Code ≥ 20%, engajamento microsite ≥ 500 acessos/mês  
+
+---
+
+## 📣 Postagem para LinkedIn
+**Título:** Transparência que cabe em um QR: da fazenda à mesa. 🌱📦➡️🍽️  
+
+**Texto:**  
+Você já parou para pensar de onde vem o alimento que chega à sua mesa? No meu projeto de impacto social para ADS, estou desenvolvendo uma plataforma de rastreabilidade no agro, que conecta produtores, empresas e consumidores.  
+
+Com um QR Code no produto, o consumidor final acessa origem, práticas sustentáveis e certificações, promovendo transparência, confiança e valorização do produtor.  
+
+Este projeto une CX + tecnologia + sustentabilidade e mostra como o agro brasileiro pode ser protagonista de um futuro mais consciente.  
+
+**Hashtags:**  
+#Agro #Sustentabilidade #Transparência #CX #Inovação #Salesforce #ImpactoSocial #ADS
+
+---
+
+## 👤 Autor
+**Gabriel Boscovich da Silva**  
+🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-boscovich/)
