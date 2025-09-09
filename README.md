@@ -140,21 +140,6 @@ Plataforma digital de **rastreabilidade integrada ao Salesforce**, aumentando a 
 
 ---
 
-## 📣 Postagem para LinkedIn
-**Título:** Transparência que cabe em um QR: da fazenda à mesa. 🌱📦➡️🍽️  
-
-**Texto:**  
-Você já parou para pensar de onde vem o alimento que chega à sua mesa? No meu projeto de impacto social para ADS, estou desenvolvendo uma plataforma de rastreabilidade no agro, que conecta produtores, empresas e consumidores.  
-
-Com um QR Code no produto, o consumidor final acessa origem, práticas sustentáveis e certificações, promovendo transparência, confiança e valorização do produtor.  
-
-Este projeto une CX + tecnologia + sustentabilidade e mostra como o agro brasileiro pode ser protagonista de um futuro mais consciente.  
-
-**Hashtags:**  
-#Agro #Sustentabilidade #Transparência #CX #Inovação #Salesforce #ImpactoSocial #ADS
-
----
-
 ## 👤 Autor
 **Gabriel Boscovich da Silva**  
 🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-boscovich/)
